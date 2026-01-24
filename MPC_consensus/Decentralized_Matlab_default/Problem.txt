@@ -1,0 +1,8 @@
+Problems:
+The not so good tracking at centroid_velocity = 0.1; 
+The bot going ulta.
+The weights selected highly impact the performancd !!
+
+Possible solutions:
+Find a MPC algorithm that can better select when to adjust the angle and when to track the positions.
+Can we design a weight scheduling algorithm to adaptively change the weights according the desired trajectory.

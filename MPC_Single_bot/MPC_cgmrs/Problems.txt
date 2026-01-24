@@ -1,0 +1,6 @@
+Problem:
+It is taking too much time to plot the entire trajectory.
+It may not be tracking the desired setpoint at all.
+
+Solution:
+First we need to fix the plotting part of it by decoding why is it taking an eternity !!
